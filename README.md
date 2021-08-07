@@ -1,13 +1,6 @@
-# Group 1.3
-
-Topic: **Weakly Supervised Aspect Extraction Using a Student-Teacher Co-Training Approach**
+**Weakly Supervised Aspect Extraction Using a Student-Teacher Co-Training Approach**
 
 --------
-
-Group members:
-- Jingpei Wu: word2vec, code framework
-- Ke Xin Chen: BERT, code
-- Kevin George: glove, code
 
 Overview tasks:
 - derive seed words using word vectors, NMF and clarity scoring function
